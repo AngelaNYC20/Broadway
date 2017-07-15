@@ -48,6 +48,7 @@ h1{
   font-size: 11px;
   color: white;
   background-color: dimgray;
+  text-align: left;
 }
 
 p{
@@ -61,4 +62,8 @@ p{
   font-family:Helvetica;
   font-size: 23px;
   font-weight: bold;
+}
+
+.img-center{
+  text-align: center;
 }
